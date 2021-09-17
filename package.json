@@ -1,14 +1,15 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "chris-berns-blog",
   "private": true,
   "description": "A starter for a blog powered by Gatsby and Markdown",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Chris Berns <chris@chrisbern.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
     "gatsby": "^3.13.0",
+    "gatsby-cli": "^3.13.0",
     "gatsby-plugin-feed": "^3.13.0",
     "gatsby-plugin-google-analytics": "^3.13.0",
     "gatsby-plugin-image": "^1.13.0",
