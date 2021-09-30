@@ -7,8 +7,9 @@ const About = ({ location }: PageProps) => {
     <Layout location={location} title="About">
       <p>
         I hope that I am a hard worker that likes to think creatively in code. I
-        have been working in JavaScript and more recently, TypeScript. Working
-        at startups
+        have been working in JavaScript and more recently TypeScript. Working at
+        startups has taught me so much. I will forever be thankful to those who
+        helped get me here.
       </p>
     </Layout>
   )
